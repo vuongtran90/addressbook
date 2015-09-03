@@ -3,14 +3,7 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.8'
-
-group :development, :test do
-	gem 'sqlite3'
-end
-group :production do
-	gem 'pg'
-end
-
+gem 'pg'
 gem 'grape'
 gem 'grape-entity'
 # Use SCSS for stylesheets
