@@ -1,1 +1,1 @@
-Buiding api using ruby on rails, CRUD using react
+Buiding api using ruby on rails
